@@ -1,0 +1,10 @@
+body {
+    background-color: aqua;
+}
+
+table {
+    margin-top: 175px;
+    background-color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+}
